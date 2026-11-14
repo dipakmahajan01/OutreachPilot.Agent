@@ -1,0 +1,14 @@
+Hi <Recruiter first name>,
+
+I came across your LinkedIn post for the <Role> role at <Company> in <City> and would like to apply.
+
+I have <N>+ years building <what you build> with <core stack>. At <Company A> I <one achievement with a real number>. I <one more relevant line: deployment, scale, AI work>.
+
+I am an immediate joiner (0 days notice), based in <City> and open to relocating to <City>.
+
+My resume is attached for your review.
+
+Best regards,
+<Your Name>
+<phone> | <email>
+<linkedin> | <github>

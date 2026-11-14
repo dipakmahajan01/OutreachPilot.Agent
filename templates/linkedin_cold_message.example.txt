@@ -1,0 +1,24 @@
+LinkedIn message, sent once after a recruiter accepts your connection request.
+{Name} = recruiter's first name, {Role} = role from their post (drop that line if unknown).
+Copy to drafts/linkedin_cold_message.txt and rewrite it with your own facts from profile.md.
+
+--- FULL VERSION ---
+Hi {Name},
+
+Thanks for connecting! I saw your post for the {Role} role and I'd like to be considered.
+
+A quick intro: I'm <Your Name>, a <role> with <N>+ years in <core stack>.
+
+- <Company A>: <one achievement with a real number>.
+- <Company B>: <one achievement with a real number>.
+- <Project>: <one line>.
+
+Stack: <databases, cloud, tools>.
+<Notice period>, based in <city>, open to <relocation / remote>.
+
+Could you share how to apply, or may I send my resume?
+<email> | <phone>
+<github>
+
+Thanks,
+<First name>

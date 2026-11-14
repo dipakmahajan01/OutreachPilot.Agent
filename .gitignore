@@ -1,0 +1,15 @@
+# Secrets and personal data — never commit
+.env
+profile.md
+resume/
+drafts/
+queue/
+*.csv
+job_applications_tracker.xlsx
+tracker_pending.csv
+2026-*.txt
+
+# Local tooling
+__pycache__/
+.claude/
+.google/
